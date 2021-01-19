@@ -1,5 +1,5 @@
 # image-processing
-## This project contains all the jupyter notebook necessay to understand image processing (with Python).
+## This project contains all the sources (jupyter notebooks) necessary to understand image processing (with Python).
    
 French site : https://datacorner.fr/  
 [Partie 1: L’image numérique](https://datacorner.fr/image-processing-1/)   
