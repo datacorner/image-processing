@@ -16,5 +16,5 @@ English site : http://aishelf.org/
 [Part 3: Thresholding](http://aishelf.org/image-processing-3/)    
 [Part 4: Transformations](http://aishelf.org/image-processing-4/)    
 [Part 5: Morphologic transformations](http://aishelf.org/image-processing-5/)    
-Part 5: Filters & convolution
+Part 5: Filters & convolution  
 Part 6: CNN
